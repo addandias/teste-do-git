@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* estilos globais */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #353535;
+    color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 88%;
+    margin: auto;
+    overflow: hidden;
+}
+
+/* estilos para o header */
+header {
+    background-color: #35424a;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
